@@ -3,7 +3,7 @@ import React from 'react';
 const Home = () => {
     return (
         <div>
-            <h1>this is a home section</h1>
+            <h3 className='text-primary text-center'>This is My Gegect Feck</h3>
         </div>
     );
 };
